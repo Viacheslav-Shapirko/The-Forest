@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+}
+
+a{
+    font-size: 22px;
+}
+ul{
+    font-size: 22px;
+}
+.photo{
+    width: 900px;
+    height: 500px;
+}
+a{
+    text-decoration: none;
+}
+p ::first-letter{
+    font-size: 170%;
+    color: black;
+}
